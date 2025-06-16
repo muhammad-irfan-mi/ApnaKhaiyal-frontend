@@ -12,7 +12,7 @@ import Lodhran from '../../../assets/images/Lodhran.jpeg'
 import faisalabad from '../../../assets/images/Faisalabad.jpeg'
 import dgKhan from '../../../assets/images/DGKhan.jpeg'
 import vehari from '../../../assets/images/Vehari.jpeg'
-import kahroorPakka from '../../../assets/images/kahroorPakka.jpeg'
+// import kahroorPakka from '../../../assets/images/kahroorPakka.jpeg'
 import Multan from '../../../assets/images/Multan.jpeg'
 import RYKhan from '../../../assets/images/RahimYarKhan.jpeg'
 import mailsi from '../../../assets/images/MailsiBridge.jpeg'
@@ -39,7 +39,7 @@ export default function Overseas() {
         { id: 2, cityName: "Faisalabad", PostedAdd: "1 ad posted", img: faisalabad },
         { id: 3, cityName: "DG Khan", PostedAdd: "0 ad posted", img: dgKhan },
         { id: 4, cityName: "Vehari", PostedAdd: "8 ads posted", img: vehari },
-        { id: 5, cityName: "Kahroor pakka", PostedAdd: "0 ad posted", img: kahroorPakka },
+        // { id: 5, cityName: "Kahroor pakka", PostedAdd: "0 ad posted", img: kahroorPakka },
         { id: 6, cityName: "Multan", PostedAdd: "1 ad posted", img: Multan },
         { id: 6, cityName: "Rahim Yar Khan", PostedAdd: "4 ads posted", img: RYKhan },
         { id: 7, cityName: "mailsi", PostedAdd: "0 ad posted", img: mailsi },
